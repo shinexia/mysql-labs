@@ -24,18 +24,32 @@ function build_mysql() {
     make install
 }
 
+
+function clean_all() {
+    rm -frv build dist
+}
+
 case $1 in
 
 build_boost)
     build_boost
     ;;
 
-build)
+build_mysql)
     build_mysql
     ;;
 
+build)
+    build_boost
+    build_mysql
+    ;;
+
+clean)
+    clean_all
+    ;;
+
 *)
-    echo "usage $0 build"
+    echo "usage $0 build|clean"
     exit 1
     ;;
 
