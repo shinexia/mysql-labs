@@ -4,3 +4,6 @@
 [submodule "postgres"]
 	path = postgres
 	url = https://github.com/postgres/postgres.git
+[submodule "innodb-java-reader"]
+	path = innodb-java-reader
+	url = https://github.com/alibaba/innodb-java-reader.git
