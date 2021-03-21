@@ -6,7 +6,7 @@
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/mysql-server/include",
                 "${workspaceFolder}/mysql-server/storage/innobase/include",
-                "${workspaceFolder}/dist/boost/include"
+                "/data/opt/boost/boost_1_73_0"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
