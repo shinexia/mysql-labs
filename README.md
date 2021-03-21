@@ -12,5 +12,5 @@ Ubuntu 20.04
 
 this will:
 
-* download and extract boost-1.73.0 to `/data/opt/boost/boost_1_73_0`
+* download and extract boost-1.59.0 to `/data/opt/boost/boost_1_59_0`
 * build mysql-server to `dist/mysql-server`
