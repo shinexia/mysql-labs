@@ -17,9 +17,9 @@ this will:
 
 ## References
 
+* <https://dev.mysql.com/doc/>
 * <http://mysql.taobao.org/monthly/>
 * <https://yq.aliyun.com/users/73lvcxkttg3xk/>
 * <https://www.cnblogs.com/coderyuhui/>
 * <http://mingxinglai.com/cn/>
 * <https://www.cnblogs.com/cchust/>
-* <https://dev.mysql.com/doc/>
